@@ -112,6 +112,7 @@ touch .env
 # 5. ▶️ Arka uç sunucusunu başlatın
 # (Bu terminali sunucu çalışır durumda bırakın)
 npm start
+```
 
 ### 2. Adım: Ön Ucu (Client) Ayarlayın
 # 1. 📂 (Yeni terminalde) Proje kök dizininden client klasörüne gidin
