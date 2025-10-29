@@ -48,7 +48,12 @@ Bu projenin amacı, veri yönetimi için basit bir API ile kitap incelemelerini 
 ### 🔧 Araçlar
 
 * **npm**: Paket yönetimi
-* **ESLint**: Kod kalitesi ve linting (`react-app` yapılandırması)
+* **ESLint**: Kod kalitesi ve linting (`react-app` yapılandırması
+
+### 📦 Mimari ve Yapı
+- **MVC Deseni**
+- **Bileşen Tabanlı Mimari (React)**
+- **RESTful API**
 
 ### 📁 Proje Yapısı
 
