@@ -1,6 +1,6 @@
 # 📚 Kitapların Nabzı
 
-Kitapların Nabzı; kitap incelemelerini yayınlamanıza, yönetmenize, düzenlemenize olanak sağlayan **full-stack** bir kitap blog uygulamasıdır.
+Kitapların Nabzı; kitap incelemelerini yayınlamanıza, yönetmenize, düzenlemenize olanak sağlayan **MERN-stack** bir kitap blog uygulamasıdır.
 
 **Front-end**, video arka planı, gezinme çubuğu ve Ana Sayfa, İncelemeler, Hakkında ve bireysel Kitap Ayrıntıları sayfaları ile temiz ve yönlendirilmiş (routed) bir deneyim sunar.
 
