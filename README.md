@@ -1,6 +1,6 @@
 # 📚 Kitapların Nabzı
 
-Bu, kitap incelemelerini yayınlamanıza, yönetmenize ve özenle seçilmiş okuma listelerine göz atmanıza olanak tanıyan **MERN-stack** bir kitap blog uygulamasıdır.
+Bu, kitap incelemelerini yayınlamanıza, yönetmenize, düzenlemenize olanak sağlayan **MERN-stack** bir kitap blog uygulamasıdır.
 
 **Front-end**, video arka planı, gezinme çubuğu ve Ana Sayfa, İncelemeler, Hakkında ve bireysel Kitap Ayrıntıları sayfaları ile temiz ve yönlendirilmiş (routed) bir deneyim sunar.
 
