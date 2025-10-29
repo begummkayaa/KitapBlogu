@@ -4,7 +4,7 @@ Bu, kitap incelemelerini yayınlamanıza, yönetmenize ve özenle seçilmiş oku
 
 **Front-end**, video arka planı, gezinme çubuğu ve Ana Sayfa, İncelemeler, Hakkında ve bireysel Kitap Ayrıntıları sayfaları ile temiz ve yönlendirilmiş (routed) bir deneyim sunar.
 
-**Back-end**, MongoDB destekli bir RESTful API sunarak kitap incelemeleri için tam CRUD (Oluşturma, Okuma, Güncelleme, Silme) işlevselliği ve okuma listelerine göre gruplandırılmış kitapları alma yeteneği sağlar.
+**Back-end**, MongoDB destekli bir RESTful API sunarak kitap incelemeleri için tam CRUD (Oluşturma, Okuma, Güncelleme, Silme) işlevselliği sağlar.
 
 ---
 
