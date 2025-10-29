@@ -114,7 +114,13 @@ touch .env
 npm start
 ```
 
+---
+
 ### 2. Adım: Ön Ucu (Client) Ayarlayın
+
+Şimdi, **yeni bir terminal** açın ve `client` dizinindeki React uygulamasını kurun.
+
+```bash
 # 1. 📂 (Yeni terminalde) Proje kök dizininden client klasörüne gidin
 cd [PROJE_KLASÖRÜ_ADI]/client
 
