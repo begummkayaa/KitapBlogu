@@ -75,6 +75,7 @@ kitap-blog-projesi/
 │   └── package.json
 │
 └── .gitignore
+```
 
 ### 🚀 Kurulum ve Çalıştırma
 
