@@ -14,7 +14,9 @@ Bu, kitap incelemelerini yayınlamanıza, yönetmenize ve özenle seçilmiş oku
     * Tüm incelemeleri listeleyin.
     * Tek bir incelemeyi (başlık, yazar, tür, puan, kapak resmi, inceleme metni, oluşturulma tarihi) görüntüleyin.
     * Yeni incelemeler oluşturun, mevcutları güncelleyin ve silin.
+      
 * **🧭 Yönlendirilmiş Kullanıcı Arayüzü:** `react-router-dom` kullanarak Ana Sayfa, İncelemeler, Hakkında ve derin bağlantı destekli Kitap Detayı (`/incelemeler/:id`) sayfaları arasında gezinin.
+  
 * **📱 Duyarlı Kullanıcı Arayüzü Öğeleri:** Şık bir sunum için kalıcı gezinme çubuğu ve video arka planı.
 
 ## 🚀 Amaç
@@ -48,7 +50,7 @@ Bu projenin amacı, veri yönetimi için basit bir API ile kitap incelemelerini 
 * **npm**: Paket yönetimi
 * **ESLint**: Kod kalitesi ve linting (`react-app` yapılandırması)
 
-## 📁 Proje Yapısı
+### 📁 Proje Yapısı
 
 Proje, bir monorepo benzeri yapıda `client` (ön uç) ve `server` (arka uç) olmak üzere iki ana klasöre ayrılmıştır.
 
@@ -74,7 +76,7 @@ kitap-blog-projesi/
 │
 └── .gitignore
 
-## 🚀 Kurulum ve Çalıştırma
+### 🚀 Kurulum ve Çalıştırma
 
 Projeyi yerel makinenizde kurmak ve çalıştırmak için aşağıdaki adımları sırasıyla izleyin.
 
